@@ -1,6 +1,6 @@
 # wyrven-theme-syntax
 
-Theme personalizado para el editor Atom
+Theme personalizado para el editor [Atom](https://atom.io/)
 
 ![](screenshot.png)
 
